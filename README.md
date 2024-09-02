@@ -1,2 +1,3 @@
 # Trial_GIT
-Basically for Trail GIT Commands
+Basically for Trail GIT Commands <br>
+Author : Priyabrata Sahu
